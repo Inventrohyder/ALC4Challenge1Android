@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ALC4 Challenge1 Android</string>
+    <string name="about_alc">About ALC</string>
+    <string name="my_profile">My Profile</string>
+    <string name="developer_name">Haitham Alhad Hyder</string>
+    <string name="alc_website">ALC Website</string>
+    <string name="title">ALC Phase 1</string>
+    <string name="label_track">Tracks : </string>
+    <string name="label_slack">Slack Username : </string>
+    <string name="label_phone">Phone number : </string>
+    <string name="label_email">Email : </string>
+    <string name="label_country">Country : </string>
+    <string name="track">Android, Cloud, Mobile Web Specialist</string>
+    <string name="country">Kenya</string>
+    <string name="email">haitham.hyder@gmail.com</string>
+    <string name="phone_number">+254736491163</string>
+    <string name="user_name">\@Inventrohyder</string>
+</resources>
